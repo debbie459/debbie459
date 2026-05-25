@@ -64,7 +64,7 @@ A voice-to-structure pipeline: upload any voice note → Whisper transcribes →
 `Angular` `React` `VueJS` `TypeScript` `Firebase` 
 
 **Core**
-`Python` `SQL` `Git`
+`Python` `Git`
 
 ---
 
@@ -82,6 +82,4 @@ A voice-to-structure pipeline: upload any voice note → Whisper transcribes →
 **Email:** opeyemiobafemi29@gmail.com
 **LinkedIn:** [Obafemi Opeyemi](https://www.linkedin.com/in/obafemi-opeyemi-812b0a258)
 
----
 
-> I care about clarity, structure, and real-world impact — not buzzwords.
