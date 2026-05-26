@@ -16,7 +16,7 @@ Frontend Developer by day, which means I ship AI products end-to-end.
 
 ## AI Projects
 
-### [Central Insight](https://github.com/debbie459) — Regulatory RAG for Nigerian Finance
+### [Central Insight](https://github.com/debbie459/Central-Insight) — Regulatory RAG for Nigerian Finance
 > Plain-English intelligence tool for junior stockbrokers and analysts navigating dense CBN and SEC regulatory documents.
 
 Built a production-grade RAG pipeline over MPC communiqués and SEC directives (2022–2024). Implemented hybrid retrieval — ChromaDB for semantic search, BM25 for keyword precision — with a cross-encoder reranker to handle specific factual queries like meeting dates and policy figures. Parent document retrieval gives the LLM full context instead of isolated chunks.
