@@ -21,7 +21,7 @@ Frontend Developer by day, which means I ship AI products end-to-end.
 
 Built a production-grade RAG pipeline over MPC communiqués and SEC directives (2022–2024). Implemented hybrid retrieval — ChromaDB for semantic search, BM25 for keyword precision — with a cross-encoder reranker to handle specific factual queries like meeting dates and policy figures. Parent document retrieval gives the LLM full context instead of isolated chunks.
 
-`LangChain` `ChromaDB` `BM25` `Hybrid Search` `Python` `Streamlit`
+`LangChain` `ChromaDB` `BM25` `Hybrid Search` `Python` 
 
 ---
 
