@@ -34,7 +34,7 @@ Two-LLM architecture: one model conducts the interview (HR or Technical), a seco
 
 ---
 
-### [Thinker's Scratchpad](https://github.com/debbie459) — Voice Note to Structured Idea · *[Live Demo](https://your-streamlit-link)*
+### [Thinker's Scratchpad](https://github.com/debbie459/Thinker-s-Scratchpad) — Voice Note to Structured Idea · *https://thinker-s-scratchpad-j4m9k5yleiphvmgrsjkktr.streamlit.app/*
 > Upload a messy voice note. Get back a headline, three core arguments, an opening hook, and loose threads — without anything being written for you.
 
 A voice-to-structure pipeline: upload any voice note → Whisper transcribes → a three-step LangChain prompt chain extracts structure from what you already said. Nothing invented, everything organised. Deployed publicly on Streamlit Cloud.
